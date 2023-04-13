@@ -1,4 +1,6 @@
-/app
+/app/Console
+/app/Exceptions
+/app/Providers
 /bootstrap
 /config
 /tests
